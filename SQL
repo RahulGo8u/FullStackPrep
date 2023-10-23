@@ -1,0 +1,69 @@
+	- CTE
+	- Cursors
+		○ Cursors vs Loop
+	- Triggers
+		○ Magic Tables
+	- Temp Table vs Table Variable
+	- SQL Injection
+	- Migration
+		○ Performing Techniques
+			§ ETL
+			§ Data Validation
+			§ Data Cleansing
+			§ Data Transformation
+			§ Challenges
+				- MSBI
+					○ SSIS
+					○ SSAS
+					○ SSRS
+		○ SQL to SQL
+			§ Same/Different server
+		○ Different Data Source Types like Oracle/Postgress/Excel
+	- DB Replication
+		○ Master/Slave
+	- Data Encryption
+	- OLAP vs OLTP
+	- Indexes
+		○ Clustered
+		○ Non Clustered
+	- String Functions
+	- Data Types
+	- Magic Tables
+	- SP vs Func
+		○ Function
+			§ Scalar
+			§ User Defined
+			§ Aggregative
+			§ Ranking Functions
+			§ Coalesce
+	- Views
+		○ Materialized Views
+	- Joins
+		○ Joins vs Union
+		○ Union vs Union all
+	- SQL vs No SQL
+	- Keys
+		○ Primary vs Unique Key
+	- Referential Integrity Errors
+	- Query Writing
+		○ Practice
+		○ Execution Plan
+		○ Understand how to calculate Costs of Query
+		○ Sharding
+			§ Partition
+		○ SubQuery
+			§ Corellated
+		○ Optimize Query
+			§ Most Important
+	- Database Design
+		○ ER Diagram
+		○ Normalization
+		○ Denormalization
+	- ACID Property
+		○ Transaction
+		○ Commit
+		○ Rollback
+		○ Isolation Levels
+	- Exception Handling
+	- DB Security
+	- Types of Authentication
